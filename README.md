@@ -5,7 +5,7 @@ This app is purposely made for people who want to remember the task they have to
 #### Instructions
 1. Just download the source code
 ```bash
-git clone []
+git clone [https://github.com/00009951/WebTechCW2.git]
 
 ```
 2. Install dependencies
@@ -21,3 +21,4 @@ node app
 - pug
 
 #### Link to github repository
+https://github.com/00009951/WebTechCW2.git

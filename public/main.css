@@ -51,6 +51,8 @@
 }
 
 .todo {
+    display: flex;
+    justify-content: space-between;
     padding: 10px;
     font-size: 1.5rem;
     border-bottom: 1px solid rgb(139, 137, 137); 
@@ -70,4 +72,13 @@
     text-align: center;
     border: 1px solid green;
     padding: 10px;
+}
+
+.delete {
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 7px;
+    background: rgb(189, 100, 100);
+    color: white;
+
 }
