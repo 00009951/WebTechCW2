@@ -38,4 +38,36 @@
     border: none;
     background: rgb(44, 41, 230);
     color: cornsilk;
- }
+}
+
+
+.todos {
+    margin-top: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 8px;
+
+ 
+
+}
+
+.todo {
+    padding: 10px;
+    font-size: 1.5rem;
+    border-bottom: 1px solid rgb(139, 137, 137); 
+
+}
+.todo:hover {
+    background: rgb(13, 109, 109);
+
+}
+
+.error {
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+}
+.success {
+    text-align: center;
+    border: 1px solid green;
+    padding: 10px;
+}
